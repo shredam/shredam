@@ -5,36 +5,36 @@ I'm Abdulrhman, a passionate developer from Egypt 🇪🇬.
 ## Tech Stack
 
 ### Languages:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg)
+![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg)
+![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg)
+![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg)
+![Java](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/java.svg)
+![C++](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg)
+![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg)
 
 ### Back-end:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=restful&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg)
+![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg)
+![Socket.io](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/socketdotio.svg)
+![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/graphql.svg)
+![RESTful API](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rest.svg)
+![JWT](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jsonwebtokens.svg)
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg)
+![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg)
 
 ### Tools & Platforms:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg)
+![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stripe.svg)
+![Render](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/render.svg)
+![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg)
+![Git](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg)
+![JUnit](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/junit5.svg)
+![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg)
 
 ### Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shredam/)
