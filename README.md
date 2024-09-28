@@ -5,36 +5,36 @@ I'm Abdulrhman, a passionate developer from Egypt 🇪🇬.
 ## Tech Stack
 
 ### Languages:
-<img src="https://www.w3schools.com/icons/html5.svg" width="40" height="40" title="HTML5"/> 
-<img src="https://www.w3schools.com/icons/css3.svg" width="40" height="40" title="CSS3"/> 
-<img src="https://www.w3schools.com/icons/javascript.svg" width="40" height="40" title="JavaScript"/> 
-<img src="https://www.w3schools.com/icons/typescript.svg" width="40" height="40" title="TypeScript"/> 
-<img src="https://www.w3schools.com/icons/python.svg" width="40" height="40" title="Python"/> 
-<img src="https://www.w3schools.com/icons/java.svg" width="40" height="40" title="Java"/> 
-<img src="https://www.w3schools.com/icons/cplusplus.svg" width="40" height="40" title="C++"/> 
-<img src="https://www.w3schools.com/icons/postgresql.svg" width="40" height="40" title="PostgreSQL"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" title="HTML5"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40" title="CSS3"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40" title="JavaScript"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/919/919849.png" width="40" height="40" title="TypeScript"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/snippets/python.svg" width="40" height="40" title="Python"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/226/226853.png" width="40" height="40" title="Java"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/333/333201.png" width="40" height="40" title="C++"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/136/136645.png" width="40" height="40" title="PostgreSQL"/>
 
 ### Back-end:
-<img src="https://www.w3schools.com/icons/nodejs.svg" width="40" height="40" title="Node.js"/> 
-<img src="https://www.w3schools.com/icons/express.svg" width="40" height="40" title="Express.js"/> 
-<img src="https://www.w3schools.com/icons/socketio.svg" width="40" height="40" title="Socket.IO"/> 
-<img src="https://www.w3schools.com/icons/graphql.svg" width="40" height="40" title="GraphQL"/> 
-<img src="https://www.w3schools.com/icons/rest-api.svg" width="40" height="40" title="RESTful API"/> 
-<img src="https://www.w3schools.com/icons/json-web-tokens.svg" width="40" height="40" title="JWT"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40" height="40" title="Node.js"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/2780/2780643.png" width="40" height="40" title="Express.js"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183736.png" width="40" height="40" title="Socket.IO"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/0/747.svg" width="40" height="40" title="GraphQL"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/864/864210.png" width="40" height="40" title="RESTful API"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828890.png" width="40" height="40" title="JWT"/>
 
 ### Databases:
-<img src="https://www.w3schools.com/icons/mongodb.svg" width="40" height="40" title="MongoDB"/> 
-<img src="https://www.w3schools.com/icons/postgresql.svg" width="40" height="40" title="PostgreSQL"/> 
-<img src="https://www.w3schools.com/icons/mysql.svg" width="40" height="40" title="MySQL"/>
+<img src="https://cdn-icons-png.flaticon.com/512/330/330490.png" width="40" height="40" title="MongoDB"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/136/136645.png" width="40" height="40" title="PostgreSQL"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/330/330546.png" width="40" height="40" title="MySQL"/>
 
 ### Tools & Platforms:
-<img src="https://www.w3schools.com/icons/docker.svg" width="40" height="40" title="Docker"/> 
-<img src="https://www.w3schools.com/icons/stripe.svg" width="40" height="40" title="Stripe"/> 
-<img src="https://www.w3schools.com/icons/render.svg" width="40" height="40" title="Render"/> 
-<img src="https://www.w3schools.com/icons/linux.svg" width="40" height="40" title="Linux"/> 
-<img src="https://www.w3schools.com/icons/git.svg" width="40" height="40" title="Git"/> 
-<img src="https://www.w3schools.com/icons/junit.svg" width="40" height="40" title="JUnit"/> 
-<img src="https://www.w3schools.com/icons/postman.svg" width="40" height="40" title="Postman"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40" height="40" title="Docker"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="40" height="40" title="Stripe"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/196/196571.png" width="40" height="40" title="Render"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/2460/2460575.png" width="40" height="40" title="Linux"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="40" height="40" title="Git"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/226/226828.png" width="40" height="40" title="JUnit"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/888/888870.png" width="40" height="40" title="Postman"/>
 
 
 ### Find me on:
