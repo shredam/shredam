@@ -5,37 +5,36 @@ I'm Abdulrhman, a passionate developer from Egypt 🇪🇬.
 ## Tech Stack
 
 ### Languages:
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40" title="HTML5"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40" title="CSS3"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40" title="JavaScript"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919849.png" width="40" height="40" title="TypeScript"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/snippets/python.svg" width="40" height="40" title="Python"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226853.png" width="40" height="40" title="Java"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/333/333201.png" width="40" height="40" title="C++"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/136/136645.png" width="40" height="40" title="PostgreSQL"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Back-end:
-<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40" height="40" title="Node.js"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/2780/2780643.png" width="40" height="40" title="Express.js"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183736.png" width="40" height="40" title="Socket.IO"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/0/747.svg" width="40" height="40" title="GraphQL"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/864/864210.png" width="40" height="40" title="RESTful API"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828890.png" width="40" height="40" title="JWT"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=restful&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
 
 ### Databases:
-<img src="https://cdn-icons-png.flaticon.com/512/330/330490.png" width="40" height="40" title="MongoDB"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/136/136645.png" width="40" height="40" title="PostgreSQL"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/330/330546.png" width="40" height="40" title="MySQL"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms:
-<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40" height="40" title="Docker"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="40" height="40" title="Stripe"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/196/196571.png" width="40" height="40" title="Render"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/2460/2460575.png" width="40" height="40" title="Linux"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="40" height="40" title="Git"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226828.png" width="40" height="40" title="JUnit"/> 
-<img src="https://cdn-icons-png.flaticon.com/512/888/888870.png" width="40" height="40" title="Postman"/>
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shredam/)
