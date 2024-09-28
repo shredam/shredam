@@ -13,7 +13,7 @@ I'm Abdulrhman, a passionate developer from Egypt 🇪🇬.
 ### Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shredam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://x.com/shredam1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:abdosheredam@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdosheredam@gmail.com)
 
 ---
 
