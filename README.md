@@ -16,7 +16,7 @@ I'm Abdulrhman, a passionate developer from Egypt 🇪🇬.
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-![Your Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shredam&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shredam&layout=compact&theme=radical)
+![Your Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shredam&theme=dracula)
 
