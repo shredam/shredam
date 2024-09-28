@@ -5,36 +5,36 @@ I'm Abdulrhman, a passionate developer from Egypt 🇪🇬.
 ## Tech Stack
 
 ### Languages:
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg)
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg)
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg)
-![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg)
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg)
-![Java](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/java.svg)
-![C++](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg)
-![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg)
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/> 
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/> 
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> 
+<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/> 
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40" height="40" title="Python"/> 
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40" title="Java"/> 
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/> 
+<img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
 
 ### Back-end:
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg)
-![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg)
-![Socket.io](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/socketdotio.svg)
-![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/graphql.svg)
-![RESTful API](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/rest.svg)
-![JWT](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jsonwebtokens.svg)
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/> 
+<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" width="40" height="40" title="Express.js"/> 
+<img src="https://devicon.dev/devicon.git/icons/socketio/socketio-original.svg" width="40" height="40" title="Socket.IO"/> 
+<img src="https://devicon.dev/devicon.git/icons/graphql/graphql-plain.svg" width="40" height="40" title="GraphQL"/> 
+<img src="https://devicon.dev/devicon.git/icons/rest/rest-original.svg" width="40" height="40" title="RESTful API"/> 
+<img src="https://devicon.dev/devicon.git/icons/jsonwebtokens/jsonwebtokens-original.svg" width="40" height="40" title="JWT"/>
 
 ### Databases:
-![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg)
-![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg)
+<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/> 
+<img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/> 
+<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
 
 ### Tools & Platforms:
-![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg)
-![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stripe.svg)
-![Render](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/render.svg)
-![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg)
-![Git](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg)
-![JUnit](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/junit5.svg)
-![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postman.svg)
+<img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> 
+<img src="https://devicon.dev/devicon.git/icons/stripe/stripe-original.svg" width="40" height="40" title="Stripe"/> 
+<img src="https://devicon.dev/devicon.git/icons/render/render-original.svg" width="40" height="40" title="Render"/> 
+<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/> 
+<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="40" height="40" title="Git"/> 
+<img src="https://devicon.dev/devicon.git/icons/junit/junit-original.svg" width="40" height="40" title="JUnit"/> 
+<img src="https://devicon.dev/devicon.git/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>
 
 ### Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shredam/)
